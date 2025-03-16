@@ -1,6 +1,7 @@
 Project Title: DiverseTalent_Applications
 
 Introduction to the Dataset
+
 The "Student Career Choices" dataset is a synthetic dataset created to explore how students from diverse backgrounds pursue data-related roles. It contains information about 10,000 applicants with different educational backgrounds, technical skills, experience levels, and application statuses for various data-related roles.
 Overview of the Dataset:
     • Total Rows: 10,000
